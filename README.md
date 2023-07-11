@@ -1,6 +1,6 @@
 # Newspaper_classification
 
-This algorithm aims at classifying news articles from different newspapers. News are written in english and japanese.
+This algorithm aims at classifying news articles from different newspapers. News articles are written in english and japanese.
 The steps are the following:
 
 * _data are imported from news folder_
